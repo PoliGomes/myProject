@@ -97,8 +97,8 @@ typings/
 .env
 
 # jsons
-.firebase.json
-.package-lock.json
+firebase.json
+package-lock.json
 
 
 
